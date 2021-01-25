@@ -75,9 +75,9 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Nazwa🖤\n' // full name
+            + 'FN:Rio\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=12542123926:+1 (254) 212-3926\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=62895605980121:+62 895-6059-80121\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
@@ -266,7 +266,7 @@ async function starts() {
         		const bisakah = ['Bisa','Tidak Bisa']
 		        const kapankah = ['Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi']
 			const botNumber = client.user.jid
-			const ownerNumber = ["12542123926@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["62895605980121@s.whatsapp.net"] // replace this with your number
 			const nomorOwner = [ownerNumber]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
@@ -284,9 +284,9 @@ async function starts() {
 			const isOwner = ownerNumber.includes(sender)
                         const isUser = user.includes(sender)
                         const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
-                        const NomerOwner = '12542123926@s.whatsapp.net'
+                        const NomerOwner = '62895605980121@s.whatsapp.net'
                         /******ApiKey Input******/
-                        const BarBarKey = 'YOUR_APIKEY'
+                        const BarBarKey = 'lGjYt4zA5SQlTDx9z9Ca'
                         /******End of ApiKey Input******/
 
 			const isUrl = (url) => {
@@ -862,12 +862,12 @@ case 'timer':
 						const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
 						buff = await client.downloadMediaMessage(encmedia)
 						for (let _ of anu) {
-							client.sendMessage(_.jid, buff, image, {caption: `*「 BROADCAST 」*\n\n${body.slice(4)}`})
+							client.sendMessage(_.jid, buff, image, {caption: `*「 SAGIRI BROADCAST 」*\n\n${body.slice(4)}`})
 						}
 						reply('')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `*「 BROADCAST 」*\n\n${body.slice(4)}`)
+							sendMess(_.jid, `*「 SAGIRI BROADCAST 」*\n\n${body.slice(4)}`)
 						}
 						reply('Suksess broadcast')
 					}
