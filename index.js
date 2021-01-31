@@ -81,7 +81,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
-prefix = '.'
+prefix = '>'
 blocked = []
 
 /******BEGIN OF FUNCTIONS INPUT******/
