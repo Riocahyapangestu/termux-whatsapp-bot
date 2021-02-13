@@ -1,6 +1,6 @@
 ### Moshi Moshi~<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-<a href="https://github.com/Riocahyapangestu"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/Nazwa.jpg"></a>
+<a href="https://github.com/Riocahyapangestu"><img src=""></a>
 </p>
 <br>
 
