@@ -1,6 +1,6 @@
 ### Moshi Moshi~<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-<a href="https://github.com/Riocahyapangestu"><img src="https://static.zerochan.net/Izumi.Sagiri.full.2994183.png"></a>
+<a href="https://github.com/Riocahyapangestu/termux-whatsapp-bot"><img src="https://static.zerochan.net/Izumi.Sagiri.full.2994183.png"></a>
 </p>
 <br>
 
