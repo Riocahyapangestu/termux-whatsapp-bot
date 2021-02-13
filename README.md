@@ -10,7 +10,7 @@
 <a href="#"><img title="BOT SAGIRI OFFICIAL" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIO-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Riocahyapangestu"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIO-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Riocahyapangestu/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazwaS?style=flat-square"></a>
@@ -19,7 +19,7 @@
 <a href="https://github.com/Riocahyapangestu/termux-whatsapp-bot/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
 </p>
 
-<img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
+<img src="https://media1.tenor.com/images/2525d71d67958c23efb2409bedfdcb7f/tenor.gif?itemid=20193860">
 <details>
 
 <summary>🍙 Help me!</summary>
