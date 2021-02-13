@@ -70,6 +70,7 @@ Follow The Steps Below!
 ```bash
 > npm start
 ```
+<img src="https://media1.tenor.com/images/eceab8b19d82c21155f561e5855e6883/tenor.gif?itemid=18320555">
 
 ## Features
 
