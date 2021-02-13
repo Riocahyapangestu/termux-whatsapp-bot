@@ -257,7 +257,7 @@ Follow The Steps Below!
 
 ---
 
-<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/tenor.gif">
+<img src="https://media1.tenor.com/images/ff992985fe05306793c8c6df5c8f8256/tenor.gif?itemid=8524345">
 
 ---
 
