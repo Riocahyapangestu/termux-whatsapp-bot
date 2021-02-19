@@ -1,10 +1,20 @@
 const help = (prefix) => {
 	return `
-「 *BOT_NAME* 」
+「 *SAGIRI* 」
+
+  *User*
+
+  *Free*
+  *Premium*
+
+  *Description ⚠️*
+   
+   Don't Call Bot + Block Your Contacts
+   Spamming Bot + Ban Permanent
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: RIO 🦅
+  ❏ Creator: RIO 🤴
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
@@ -12,7 +22,7 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}chatlist
   ├─ ❏ ${prefix}ping
   └─ ❏ ${prefix}bugreport
-◪ *MAKER*
+◪ *MAKER • Premium/Free* 
   │
   ├─ ❏ ${prefix}sticker
   ├─ ❏ ${prefix}stickergif
@@ -54,7 +64,7 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}trendtwit
   ├─ ❏ ${prefix}randomkpop
   └─ ❏ ${prefix}ytsearch
-◪ *EDUCATION*
+◪ *EDUCATION•Premium*
   │
   ├─ ❏ ${prefix}wiki
   ├─ ❏ ${prefix}wikien
@@ -70,7 +80,7 @@ const help = (prefix) => {
   └─ ❏ ${prefix}bisakah
 ◪ *DOWNLOADER*
   │
-  ├─ ❏ ${prefix}pinterest
+  ├─ ❏ ${prefix}wallpaper
   ├─ ❏ ${prefix}ytmp3
   ├─ ❏ ${prefix}ytmp4
   ├─ ❏ ${prefix}tiktok
@@ -79,7 +89,7 @@ const help = (prefix) => {
   │
   ├─ ❏ ${prefix}meme
   └─ ❏ ${prefix}memeindo
-◪ *GROUP*
+◪ *ADMIN🎗️*
   │
   ├─ ❏ ${prefix}opengc
   ├─ ❏ ${prefix}closegc
@@ -173,7 +183,7 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}timer
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2
-◪ *OWNER_NAME2*
+◪ *Owner By Rio🤴*
 `
 }
 
