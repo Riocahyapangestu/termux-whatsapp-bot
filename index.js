@@ -1396,7 +1396,8 @@ case 'timer':
 					client.sendMessage(from, buffer, image, {quoted: mek})
 					break				
                                  case 'nsfw':
-					if (!isGroup) return reply(mess.only.group)
+	
+				if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
 					if (args.length < 1) return reply('ketik 1 untuk mengaktifkan')
 					if (Number(args[0]) === 1) {
@@ -1417,11 +1418,12 @@ case 'timer':
 					anu = await fetchJson(`https://arugaz.my.id/api/random/text/quotes`, {method: 'get'})
 					reply(anu.quotes)
 					break		
-			    case 'waifu':
-					gatauda = body.slice(7)
+			       case 'waifu':
+					if (!isNsfw) return reply('❌ *NSFW MATI* ❌'
+				        gatauda = body.slice(7)
 					reply(mess.wait)
                                         if (!isUser) return reply(mess.only.daftarB)
-					anu = await fetchJson(`https://arugaz.my.id/api/nekonime`, {method: 'get'})
+					anu = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwneko?apikey=BotWeA`, {method: 'get'})
 					buffer = await getBuffer(anu.result)
 					client.sendMessage(from, buffer, image,{quoted: mek})
 					break
