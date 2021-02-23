@@ -1419,7 +1419,6 @@ case 'timer':
 					reply(anu.quotes)
 					break		
 			       case 'waifu':
-					if (!isNsfw) return reply('❌ *NSFW MATI* ❌'
 				        gatauda = body.slice(7)
 					reply(mess.wait)
                                         if (!isUser) return reply(mess.only.daftarB)
